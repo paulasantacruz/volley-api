@@ -12,6 +12,7 @@ public class Post {
         this.title = title;
         this.body = body;
     }
+
     public int getUserId() {
         return userId;
     }
@@ -27,6 +28,7 @@ public class Post {
     public String getBody() {
         return body;
     }
+
     public void setUserId(int userId) {
         this.userId = userId;
     }
@@ -43,6 +45,3 @@ public class Post {
         this.body = body;
     }
 }
-
-
-

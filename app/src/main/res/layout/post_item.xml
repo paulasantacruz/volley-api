@@ -30,6 +30,7 @@
             android:text="Cuerpo del Post"
             android:textColor="@android:color/darker_gray"
             android:textSize="14sp" />
+
     </LinearLayout>
 
 </androidx.cardview.widget.CardView>
